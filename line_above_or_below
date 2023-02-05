@@ -1,0 +1,6 @@
+def function(x,y):
+	result = (x*(-6/7))+(61/7)
+    
+	print("is it above the line: ", result < y)
+    
+function(50,-34)
